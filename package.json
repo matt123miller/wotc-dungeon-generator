@@ -1,0 +1,22 @@
+{
+  "name": "@theframeworks/wotc-dungeon-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "launcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt123miller/wotc-dungeon-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt123miller/wotc-dungeon-generator/issues"
+  },
+  "homepage": "https://github.com/matt123miller/wotc-dungeon-generator#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
